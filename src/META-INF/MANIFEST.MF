@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Main-Class: 
+Class-Path: commons-beanutils.jar commons-collections-3.0.jar commons-la
+ ng-2.1.jar commons-logging.jar ezmorph-1.0.2.jar json-lib-1.1-jdk13.jar
+  jsoup-1.11.3.jar tm-extractors-0.4.jar
+
