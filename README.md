@@ -12,7 +12,9 @@
 ![image](/image/p2.png)
 
 ### 2.把文档另存为Word-2003
+
 导出的文档虽为.doc后缀，但实际上是html格式，为了方便后续的解析，需要将其转换为真正的doc格式。打开office或wps将其另存为Word-2003格式。
+
 ![image](/image/p3.png)
 
 ### 3.打开ShowdocParser，导入刚才保存的文档
